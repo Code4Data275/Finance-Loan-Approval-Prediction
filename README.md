@@ -76,3 +76,7 @@ The goal is to predict whether a customer is eligible for a home loan based on d
 
 ---
 👤 **Author**: *Aldous Dsouza*  
+---
+
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork this repo and submit pull requests.  
